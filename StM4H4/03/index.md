@@ -1,6 +1,6 @@
 # 遊戲編劇AI神助手 HW 03
 
-基本文件：[PosetMage設定集](https://posetmage.com/SettingBook)
+基本文件：[PosetMage設定集](https://posetmage.com/Novel)
 
 ## Environment
 * Stable Diffusion
