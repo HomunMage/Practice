@@ -1,7 +1,6 @@
 ---
+title: Q4 隱喻
 ---
-
-# Q4 隱喻
 
 ## posetmage
 Create a metaphor that represents the delicate balance between technological progress and its potential negative impacts on society, using the concept of a tightrope walker performing on a high wire.

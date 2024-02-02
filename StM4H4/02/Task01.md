@@ -1,7 +1,6 @@
 ---
+title: 遊戲編劇AI神助手02 HW-1
 ---
-
-# 遊戲編劇AI神助手02 HW-1
 
 備註：餵AI我的[設定集](https://posetmage.com/SettingBook/)  
 備註：還有餵[發想心智圖](https://hackmd.io/@posetmage/B18gw5Bbi?both)  

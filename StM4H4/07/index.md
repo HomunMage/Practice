@@ -1,7 +1,6 @@
 ---
+title: 遊戲編劇AI神助手 HW 07
 ---
-
-# 遊戲編劇AI神助手 HW 07
 
 [spelling process](./chatgpt/chat.html)
 
