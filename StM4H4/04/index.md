@@ -1,6 +1,4 @@
----
-title: 遊戲編劇AI神助手 HW 04
----
+# 遊戲編劇AI神助手 HW 04
 
 
 ## Outcome

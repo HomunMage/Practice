@@ -1,6 +1,4 @@
----
-title: 遊戲編劇AI神助手 HW 03
----
+# 遊戲編劇AI神助手 HW 03
 
 基本文件：[PosetMage設定集](https://posetmage.com/SettingBook)
 

@@ -1,6 +1,4 @@
----
-title: 叫AI提問
----
+# 叫AI提問
 
 ## posetmage
 now there is new AI show up, we want to test and understand this new AI's ability with 4 direction. all of them are offline, don't use info need to surf the net

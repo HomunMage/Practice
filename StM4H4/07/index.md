@@ -1,13 +1,11 @@
----
-title: 遊戲編劇AI神助手 HW 07
----
+# 遊戲編劇AI神助手 HW 07
 
 [spelling process](./chatgpt/chat.html)
 
 Basic world setting: 
-* [Entropy](https://posetmage.com/SettingBook/Setting/Ch1/Entropy)
-* [Triality](https://posetmage.com/SettingBook/Setting/Ch3/Triality)
-* [Attribute](https://posetmage.com/SettingBook/Setting/Ch3/Attribute)
+* [Entropy](https://posetmage.com/Novel/Setting/Ch1/Entropy)
+* [Triality](https://posetmage.com/Novel/Setting/Ch3/Triality)
+* [Attribute](https://posetmage.com/Novel/Setting/Ch3/Attribute)
 
 ## Grumm
 <img src="https://posetmage.com/Portfolio/StM4H4/05/First/Grumm.png" height="350">

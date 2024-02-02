@@ -1,6 +1,4 @@
----
-title: 遊戲編劇AI神助手 HW 02
----
+# 遊戲編劇AI神助手 HW 02
 
 ## User
 help me brainstorming with crazy and many random feild combine something special hints about random events or info
