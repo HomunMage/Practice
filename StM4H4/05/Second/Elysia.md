@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 # Character Card

@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 # MarkMap on VSCode

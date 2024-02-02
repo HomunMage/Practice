@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 # Q3 創意寫作

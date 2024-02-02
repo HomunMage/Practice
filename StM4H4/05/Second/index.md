@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 ## 人物設計

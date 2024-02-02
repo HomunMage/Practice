@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 # 角色卡

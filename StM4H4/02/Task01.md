@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 # 遊戲編劇AI神助手02 HW-1

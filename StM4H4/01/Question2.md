@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 # Q2 判斷

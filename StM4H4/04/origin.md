@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 # 《苦主摩訶聖》

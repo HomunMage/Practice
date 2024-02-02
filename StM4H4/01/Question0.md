@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 # 叫AI提問
