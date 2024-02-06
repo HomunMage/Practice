@@ -8,7 +8,7 @@ Basic world setting:
 * [Attribute](https://posetmage.com/Novel/Setting/Ch3/Attribute)
 
 ## Grumm
-<img src="https://posetmage.com/Portfolio/StM4H4/05/First/Grumm.png" height="350">
+<img src="../05/First/Grumm.png" height="350">
 
 | Triality | Value |
 |-----------|-------|
@@ -18,8 +18,8 @@ Basic world setting:
 
 ### Grumm's basic info
 
-* [card](https://posetmage.com/Portfolio/StM4H4/05/First/Grumm.html)
-* [story](https://posetmage.com/Portfolio/StM4H4/05/Second/Grumm.html)
+* [card](../05/First/Grumm.html)
+* [story](../05/Second/Grumm.html)
 
 ### Grumm's Skill's Set
 <style>
@@ -133,7 +133,7 @@ Nature's Blessing:</td>
 </table>
 
 ## Elysia
-<img src="https://posetmage.com/Portfolio/StM4H4/05/First/Elysia.png" height="350">
+<img src="../05/First/Elysia.png" height="350">
 
 | Triality | Value |
 |-----------|-------|
@@ -143,8 +143,8 @@ Nature's Blessing:</td>
 
 ### Elysia's basic info
 
-* [card](https://posetmage.com/Portfolio/StM4H4/05/First/Elysia.html)
-* [story](https://posetmage.com/Portfolio/StM4H4/05/Second/Elysia.html)
+* [card](../05/First/Elysia.html)
+* [story](../05/Second/Elysia.html)
 
 ### Elysia's Skillset
 
@@ -233,7 +233,7 @@ Nature's Blessing:</td>
 </table>
 
 ## Skrik
-<img src="https://posetmage.com/Portfolio/StM4H4/05/First/Skrik.png" height="350">
+<img src="../05/First/Skrik.png" height="350">
 
 | Triality | Value |
 |-----------|-------|
@@ -243,8 +243,8 @@ Nature's Blessing:</td>
 
 ### Skrik's basic info
 
-* [card](https://posetmage.com/Portfolio/StM4H4/05/First/Skrik.html)
-* [story](https://posetmage.com/Portfolio/StM4H4/05/Second/Skrik.html)
+* [card](../05/First/Skrik.html)
+* [story](../05/Second/Skrik.html)
 
 ### Skrik's Skillsets:
 <table border="1" width="700">

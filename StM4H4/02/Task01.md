@@ -1,8 +1,5 @@
 # 遊戲編劇AI神助手02 HW-1
 
-備註：餵AI我的[設定集](https://posetmage.com/Novel/)  
-備註：還有餵[發想心智圖](https://posetmage.com/GameDesign/Siegel%20Battle/design/)  
-
 ## PosetMage
 備註：直接餵[設定集CH1-Entropy](https://posetmage.com/Novel/Setting/Ch1/Entropy)
 
@@ -30,7 +27,7 @@ Applying the entropy world setting: The concept can be applied in numerous ways 
 ## PosetMage
 here is my markmap
 
-備註：餵給他[發想心智圖](https://hackmd.io/@posetmage/B18gw5Bbi?both)  
+備註：餵給他[發想心智圖](https://posetmage.com/GameDesign/Siegel%20Battle/design/)  
 
 you do brainstorming based on this format, but add more innovation concetps to crate a new game concept.
 don't follow my old design. for example, you metioned puzzles game i think that a good beginning. and you brainstorming a new game

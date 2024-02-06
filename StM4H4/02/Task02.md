@@ -2,7 +2,7 @@
 
 人物設計
 
-備註：這邊我是直接貼設定集的[人物設計](https://posetmage.com/Portfolio/Siegel%20Battle/character)
+備註：這邊我是直接貼設定集的[人物設計](https://posetmage.com/Novel/Setting/Ch4/Design)
 
 ## PosetMage
 I will give you several characters cards that you need to learn my format,
