@@ -2,8 +2,13 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+Gemfile.lock
 vendor
 /.vs
 
 *.png
-Gemfile.lock
+*.jpg
+*.zip
+*.7z
+
+
