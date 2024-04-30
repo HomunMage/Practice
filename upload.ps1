@@ -3,16 +3,16 @@ cd _includes
 cd ../
 
 cd _layouts
-./upload.bat
+./upload.ps1
 cd ../
 
 cd assets
 ./upload.bat
 cd ../
 
-git config --local user.name "AIMageGuild"
-git config --local user.email "AIMageGuild@users.noreply.github.com"
-git remote set-url origin git@AI:aimageguild/Practice.git
+git config --local user.name "HomunMage"
+git config --local user.email "Homun@posetmage.com"
+git remote set-url origin git@HO:HomunMage/Practice.git
 
 git submodule update --recursive --remote
 
