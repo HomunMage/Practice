@@ -1,3 +1,1 @@
 # Practicing AI
-
-build

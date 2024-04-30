@@ -31,7 +31,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "practice"
+      layout: "board"
       
 feed:
   output: true
